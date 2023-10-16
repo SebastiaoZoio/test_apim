@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/239005ad-6d0b-4a68-b6cc-64b1c31919aa/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/test-apim-sz2000",
+    "appService.deploySubpath": "."
+}
